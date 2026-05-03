@@ -7,7 +7,7 @@ This package of 8 DAX functions is designed to provide access to **key performan
 | Functions                 	      | What it is?                                                  |
 | ------------------------------------|--------------------------------------------------------------|
 | PatouTips.Finance.ProjectProfitability.**DF**                   | Calculate DF (Discounted Factor) by period                   |
-| PatouTips.Finance.ProjectProfitability.**FCF**                  | Calculate FCF (Discounted Free Cash Flow) by period          |
+| PatouTips.Finance.ProjectProfitability.**FCF**                  | Calculate FCF (Free Cash Flow) by period          |
 | PatouTips.Finance.ProjectProfitability.**DCF**                  | Calculate DCF (Discounted Cash Flow) by period               |
 | PatouTips.Finance.ProjectProfitability.**IRR**                  | Calculate IRR (Internal Rate Return) by period               |
 | PatouTips.Finance.ProjectProfitability.**NPV**                  | Calculate NPV (Net Present Value) by period                  |
